@@ -1,0 +1,19 @@
+.container {
+    max-width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+.header {
+    width: 100%;
+    color: yellow;
+    text-align: center;
+}
+.name {
+    font-size:200px;
+    font-weight: 900;
+    color: green;
+    cursor: pointer;
+}
+.name:hover {
+    color: rgb(0, 0, 255);
+    transition: all 1s ease-in-out;
+}
